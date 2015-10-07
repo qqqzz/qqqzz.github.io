@@ -1,4 +1,4 @@
-# qqqzz.github.io
+
 Yesterday the international financial markets, oil prices become the "big winner", US tarpaulin oil "rally, such as rainbow" both rose more than 5%, IMF lowered its global growth forecasts, making global policy more liberal outlook, the market slowed down the Federal Reserve to raise interest rates again It expected US trade data and the date of weakness, which is pressuring the dollar fell to a week low of 95.50. Gold has also a strong break $ 1,140 / oz key resistance level. US stocks rose for the final five days now after the S & P fell 0.4 percent tired. Today the Bank of Japan once again resorted whether QE concern.
 Crude oil "rally, such as rainbow," the US means "dejected"
 ☆ ☆ Tuesday market review
