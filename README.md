@@ -1,4 +1,4 @@
-
+# qqqzz.github.io
 Yesterday the international financial markets, oil prices become the "big winner", US tarpaulin oil "rally, such as rainbow" both rose more than 5%, IMF lowered its global growth forecasts, making global policy more liberal outlook, the market slowed down the Federal Reserve to raise interest rates again It expected US trade data and the date of weakness, which is pressuring the dollar fell to a week low of 95.50. Gold has also a strong break $ 1,140 / oz key resistance level. US stocks rose for the final five days now after the S & P fell 0.4 percent tired. Today the Bank of Japan once again resorted whether QE concern.
 Crude oil "rally, such as rainbow," the US means "dejected"
 ☆ ☆ Tuesday market review
@@ -101,3 +101,13 @@ Part informed sources said, due to strong corporate profits and the labor market
 Quarterly report of the Bank of Japan's Tankan survey released Thursday showed that large manufacturers sentiment index fell in September compared to positive 12 months ago 3:00 for the first time in three quarters of deterioration, and the future is expected to fall further; However, the boom of large non-manufacturers unexpectedly increased.
 
 Nevertheless, BNP Paribas (BNP Paribas) economists still believe that the Bank of Japan Tankan survey in September as a whole is stronger than generally expected, and the Bank of Japan believes that corporate profits remained strong. The bank said that even if Japan into a technical recession in the third quarter (economists believe that this may have occurred), this is not the Bank of Japan to ease monetary policy for a good reason.
+#Hello World!
+##test
+###test2
+$x^2=1$
+
+[Google](http://google.com)
+~~~~{python}
+print 'hello world'
+~~~~
+test `test`
